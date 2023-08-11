@@ -1,3 +1,4 @@
-function acomoda (){
-    
+function cuenta() {
+    const tienes = cuenta;
 }
+
